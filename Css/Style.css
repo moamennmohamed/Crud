@@ -1,0 +1,4 @@
+.Product img {
+  height: 18rem;
+  object-fit: contain;
+}
